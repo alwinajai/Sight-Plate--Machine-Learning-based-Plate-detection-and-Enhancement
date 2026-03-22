@@ -2,8 +2,6 @@
 
 > A complete end-to-end computer vision pipeline for detecting and restoring Indian vehicle license plates from images and video footage, built with YOLOv8, Real-ESRGAN v3, and Blind Motion Deblurring.
 
-**Author:** Alwin Ajai  
-**LinkedIn:** [alwin-ajai-817436201](https://www.linkedin.com/in/alwin-ajai-817436201/)  
 **Stack:** Python · YOLOv8s · Real-ESRGAN v3 · TensorFlow · OpenCV · PySide6 · CUDA
 
 ---
